@@ -26,8 +26,6 @@ A modern, responsive educational portal built with **Vite**, **React**, and **Ty
 - Express.js
 - Ollama
 
-### APIs
-- Gemini API (fallback)
 
 ### Tooling & DevOps
 - Vite
