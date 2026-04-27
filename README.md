@@ -14,7 +14,6 @@ A modern, responsive educational portal built with **Vite**, **React**, and **Ty
 
 ---
 
-## 📦 Tech Stack
 
 ## 📦 Tech Stack
 
