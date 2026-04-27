@@ -16,10 +16,27 @@ A modern, responsive educational portal built with **Vite**, **React**, and **Ty
 
 ## 📦 Tech Stack
 
-| Frontend       | Backend (Optional) | Tooling & DevOps         |
-|----------------|--------------------|---------------------------|
-| React + TS     | Express + Ollama   | Vite, ESLint, Prettier    |
-| TailwindCSS    | Gemini API (fallback) | GitHub + Vercel CI/CD |
+## 📦 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- TailwindCSS
+
+### Backend (Optional)
+- Express.js
+- Ollama
+
+### APIs
+- Gemini API (fallback)
+
+### Tooling & DevOps
+- Vite
+- ESLint
+- Prettier
+- GitHub
+- Vercel (Deployment)
+
 
 ---
 
